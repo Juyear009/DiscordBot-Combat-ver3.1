@@ -873,4 +873,4 @@ async def on_message(message):
                     ChoiceSkill = []
 
 
-client.run("ODE3NzQ5MDE4NjA4MjcxMzYx.YEOCHw.pyOE8GQq5kxBND2V-8PUxfGnsUQ")
+client.run("My Discord Bot Token Here")
